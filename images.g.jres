@@ -1,0 +1,52 @@
+{
+    "image2": {
+        "data": "hwQYABMAAAAAAAAAzAwAAAAAAAAAAADAHMwAAAAAAADMzMzMwcHMzMwMAADMHBERzBwREcwMAADMwczMzMzMzMEMAADMzMzMzMzMzMwMAADMzMzMzMzMzMwMAADMzMwREREREcwMAADMzMwREREREcwMAADMzMwREREREcwMAADMHMEREREREcwMAADMEREREREREcwMAADMEREREREREcwMAADMHMEREcwREcwMAADMzMwRwcwcEcwMAADMzMwRwcwcEcwMAADMzMwREcwREcwMAADMzMzMzMzMzMwMAADMzMzMzMzMzMwMAADMwczMzMzMzMEMAADMHBERzBwREcwMAADMzMzMwcHMzMwMAAAAAADAHMwAAAAAAAAAAAAAzAwAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Makecode Arcade"
+    },
+    "image3": {
+        "data": "hwQpACEAAAAAAMDMzMzMzMzMzMzMzMwMAAAAAAAA////////////////VcwAAAAAAPD//7v7///x////////zwwAAAAA/7v7u/v////Mz/xf9VVVDAAAAAD/+////////8zP/PVfVVUMAAAAAP+7////////////9V9VVQwAAAAA/7//z8zM//////9f9VVVDAAAAAD/u//PzMz///////////8MAAAAAP/7/8/MzP////////9VVQwAAAAA/7v/z8zM/////////1VVDAAAAAD/v//PzMz///////////8MAAAAAP+7////////////X/VVVQwAAAAA//v////////////1X1VVDAAAAAD/+/////////////VfVVUMAAAAAP//////////////X/VVVQwAAAAA////////////////////DAAAAAv/////////////////VVUMAAAAvbv///////////////9VVQwAAADd3f//////////////////DAAAAN3d/////////////1/1VVUMAAAA3d3/////////////9V9VVQwAAADd3f///////x8R///1X1VVDAAAAA3////////x8f/x/1/1VVUMAAAAALu7+//////x8fH//////wwAAAAA3d39////8fH/8f///1VVDAAAAADd3P3/////8fHx////VVUMAAAAAM3M/f////Hx//H//////wwAAAAA3dz9/////x8R//9f9VVVDAAAAADd3f3///////////VfVVUMAAAAAN3d/f//////////9V9VVQwAAAAA//////////////9f9VVVDAAAAAD///////////////////8MAAAAAN/d3f//zMz///////9VVQwAAAAA3d3////MzP///////1VVDAAAAADd3bv//8zM//////////8MAAAAAN3du///zMz/////X/VVVQwAAAAA3d3////////////1X1VVDAAAAADf3d3//7/7//////VfVVUMAAAAAP//////v/v/////X/VVVQAAAAAA8P////////H///////8PAAAAAAAA////////////////VQAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "MicroBit"
+    },
+    "image1": {
+        "data": "hwQaABwAAAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAAAAAAAAAAAA/w8AAAAAAAAAAAAAAAAA8BHxAAAAAAAAAAAAAAAA8P8REQ8AAAAA8A8AAAAA8B/xEREPAAAAAE/0AAAAAB/x8RER8QD/AABP9AAA8P8fEfER8fHwRA8AT/QAAE9EHxH/HxEfD08PAE/0AADwRPT/RB8RHw9PDwBP9AAAAE9ERET/ER//9ADwRPQAAABP/09E/xEfT/QAT0QPAAAAT0T0RB8RH09E/0T0AAAAAE9ET/QfER9PREREDwAAAABP9EQf8REfT0RE9AAAAAAAT0/08fHx8URERPQAAAAAAE9EHxHxEfFERET0AAAAAABPRB8RHxERT0RERA8AAAAAT0T0/0QRQU9ERET/DwAA8ERERERERPTwRERE//QAAPBEREREREQPAE9ET0T0AAAA////T0T/AADwRE9E9AAAAAAAAPD/DwAAT0RPRA8AAAAAAAAAAA8A8EH08P8AAAAAAAAAAPAAAB8RDwAAAAAAAAAAAAAAAADw/wAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Scratch Cat"
+    },
+    "image4": {
+        "data": "hwQIAAsAAAAAAEBERAQAAEBERBQRBAAAQBERREEEAABAQRREQQAAAEBBFERBAAAAREEUEUEAAAAUEURERAAAAEREBAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Scratch Logo"
+    },
+    "image5": {
+        "data": "hwQQAA0AAABgAACZmQAAAJZmZmZmBgAAYACZmZmZCQAAAJkRkZkJAAAAmRGflgkAAACZ8Z9hCQAAAJmZmWEJAAAAmZmZYQkAAACZmZlhCQAAAJmZmWEJAAAAmRGfYQkAAACZ8Z+WCQAAAJkRkZkJAGAAmZmZmQkAlmZmZmYGAABgAACZmQAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "AdaBot"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAACgOgAAAAAAAKCaAAAAAACgqToAAAAAAKmjmgAAAACgo6k6oKoKAKCpo5qqqqoAoKPJOqqqqgqgycOaGqGjqsDDyTqaqJCqyszMqqCqAJOqqsqqAMoAkJOqyqwAAAMAk5OTrAAAAAAAk5OsAAAAAAAAAKAAAAAAAAAACg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blinka"
+    },
+    "image7": {
+        "data": "hwQQAAYAAAAAzMwAAAwAANDdAADd8Q0AFP8EAN3RDQDw/wAA0NEAAODhAADQ3QAA3fENABX/BQDd0Q0A0N0AAAAMAAAAzMwA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Mho"
+    },
+    "image8": {
+        "data": "hwQPABAAAAAAAACTrKqqCAAAMMmIqKqKAAA4yRiBqggAADiJkR+oigOAOInxH6gIMICIkxiBqoowg4g4iciqCACDiIiTnKqKAIOIOInIqggwgIiTGIGqigCAOImRH6gIAAA4ifEfqIoAADjJGIGqCAAAMMmIqKqKAAAAk6yqqgg=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Minerva"
+    },
+    "image9": {
+        "data": "hwQLABAAAAAAAAAAZmYGAAYAYGZhZmYAZmZmZhFmFgZgZmZmiWhhZgBmZmYWZhZmAABmZmZmYWYAAGBmFmYWZgAAZmaJaGFmAGBmZhFmFgYABgBmYWZmAAAAAABmZgYA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Sparky"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
